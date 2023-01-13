@@ -2,4 +2,4 @@
 
 >Status do projeto: Em desenvolvimento.
 
->Alguns trabalhos que venho desenvolvendo.
+Alguns trabalhos que venho desenvolvendo.
