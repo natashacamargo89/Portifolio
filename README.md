@@ -1,4 +1,4 @@
-<h1> Portfólio</h1>
+<h1> Portifólio</h1>
 
 >Status do projeto: Em desenvolvimento.
 
