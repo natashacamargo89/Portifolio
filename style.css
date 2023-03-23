@@ -67,6 +67,14 @@ body {
     font-family: var(--fonte-secundaria);
 }
 
+.apresentacao__sobre {
+    padding: 8% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+
 .apresentacao__links{
    display: flex;
    flex-direction: column;
