@@ -166,12 +166,17 @@ body {
   @media screen and (max-width: 768px) {
     .cabecalho, .apresentacao__conteudo, .apresentacao__conteudo__texto, .apresentacao__conteudo__titulo, footer {
         display:block;
-        background-image: none;;
+        background-image: none;
      }
 
      .foto__perfil {
-        width: 50vw;
+        display: none;
      }
+
+     .video {
+        display: block;
+        max-width: 80vw;
+    }
 
      .rodape__lista {
         display: block;
