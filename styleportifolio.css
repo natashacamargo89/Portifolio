@@ -76,7 +76,7 @@ body {
     text-align: center;
 }
 
-.apresentacao__links{
+.apresentacao__links {
    display: flex;
    flex-direction: column;
    justify-content: space-between;
